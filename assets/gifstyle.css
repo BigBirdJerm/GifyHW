@@ -1,0 +1,38 @@
+button,
+div,
+form,
+input {
+  margin: 5px;
+}
+
+img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+label {
+  color: rgb(212, 0, 0);
+}
+
+.btn-default {
+  color: blue;
+  font-size: large;
+}
+
+body {
+  background-image: url("../assets/images/avengerbackground.png");
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.holder {
+  float: left;
+}
+
+.jumbotron {
+  text-align: center;
+  background: none;
+  color: blue;
+}
